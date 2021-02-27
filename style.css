@@ -1,0 +1,16 @@
+img {
+    height: 130px;
+    margin-left: 19;
+}
+img:hover {
+    transform: scale(1.1);
+}
+body {
+    text-align: center;
+    background-color: #430541;
+    color: whitesmoke;
+}
+#URL, #NAME, #IMG {
+    width: 60%;
+    margin-left: 210px;
+}
